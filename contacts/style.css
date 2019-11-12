@@ -1,0 +1,25 @@
+#contacts {
+    margin-top: 20vh;
+}
+
+h3 {
+    font-size: 6vh;
+    text-align: center;
+
+}
+
+.p {
+    font-size: 3vh;
+}
+
+#triangle-up {
+    width: 0;
+    height: 0;
+    border-left: 4vh solid transparent;
+    border-right: 4vh solid transparent;
+    border-bottom: 8vh solid red;
+    float: right;
+    margin-right: 30vh;
+    margin-top: 15vh;
+
+}
